@@ -1,0 +1,2 @@
+Este es un archivo de txt para la rama TXT, espero saber como
+se mergea en esta cosa rara.
