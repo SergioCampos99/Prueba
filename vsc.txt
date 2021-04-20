@@ -1,0 +1,2 @@
+Estoy editando el texto dentro de vsc asi que ahora intentare hacer un
+stageado del archivo. Espero conseguirlo
